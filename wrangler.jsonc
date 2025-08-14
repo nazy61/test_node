@@ -1,8 +1,5 @@
 {
     "name": "test_node",
-    "type": "javascript",
-    "workers_dev": true,
     "compatibility_date": "2022-02-04",
-    "account_id": "b6d0d1c5b5c1b9b1a5d5e1d6e5d7e1f8e9a0b1c2d3e4f5",
     "main": "app.js"
 }
